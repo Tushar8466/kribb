@@ -17,7 +17,7 @@ export default function TabLayout() {
       <NativeTabs.Trigger name='saved'>
         <Icon sf="heart.fill" />
         <Label>Saved</Label>
-      </NativeTabs.Trigger>
+      </NativeTabs.Trigger> 
 
       <NativeTabs.Trigger name='profile'>
         <Icon sf="person.fill" />
